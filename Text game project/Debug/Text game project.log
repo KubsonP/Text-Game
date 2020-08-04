@@ -1,0 +1,4 @@
+﻿  Text game project.cpp
+C:\Users\zydmu\source\repos\Text game project\Text game project\Text game project.cpp(35): warning C4715: 'armor': not all control paths return a value
+C:\Users\zydmu\source\repos\Text game project\Text game project\Text game project.cpp(31): warning C4715: 'weapons': not all control paths return a value
+  Text game project.vcxproj -> C:\Users\zydmu\source\repos\Text game project\Debug\Text game project.exe
